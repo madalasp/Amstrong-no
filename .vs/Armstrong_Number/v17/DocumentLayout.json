@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shibaprasd\\source\\repos\\Armstrong_Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F20C060-BC47-456B-8863-0D6EE47B6F2F}|Armstrong_Number\\Armstrong_Number.csproj|c:\\users\\shibaprasd\\source\\repos\\armstrong_number\\armstrong_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F20C060-BC47-456B-8863-0D6EE47B6F2F}|Armstrong_Number\\Armstrong_Number.csproj|solutionrelative:armstrong_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shibaprasd\\source\\repos\\Armstrong_Number\\Armstrong_Number\\Program.cs",
+              "RelativeDocumentMoniker": "Armstrong_Number\\Program.cs",
+              "ToolTip": "C:\\Users\\shibaprasd\\source\\repos\\Armstrong_Number\\Armstrong_Number\\Program.cs",
+              "RelativeToolTip": "Armstrong_Number\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:09:23.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

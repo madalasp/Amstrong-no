@@ -1,0 +1,7 @@
+C:\Users\shibaprasd\source\repos\Armstrong_Number\Armstrong_Number\bin\Debug\Armstrong_Number.exe.config
+C:\Users\shibaprasd\source\repos\Armstrong_Number\Armstrong_Number\bin\Debug\Armstrong_Number.exe
+C:\Users\shibaprasd\source\repos\Armstrong_Number\Armstrong_Number\bin\Debug\Armstrong_Number.pdb
+C:\Users\shibaprasd\source\repos\Armstrong_Number\Armstrong_Number\obj\Debug\Armstrong_Number.csproj.AssemblyReference.cache
+C:\Users\shibaprasd\source\repos\Armstrong_Number\Armstrong_Number\obj\Debug\Armstrong_Number.csproj.CoreCompileInputs.cache
+C:\Users\shibaprasd\source\repos\Armstrong_Number\Armstrong_Number\obj\Debug\Armstrong_Number.exe
+C:\Users\shibaprasd\source\repos\Armstrong_Number\Armstrong_Number\obj\Debug\Armstrong_Number.pdb
